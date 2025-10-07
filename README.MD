@@ -33,7 +33,7 @@ python app.py
 
 ---
 
-## 🌐 Online Hosted Version
+## 🌐 Online Hosted Version 
 
 You can also access the live hosted version of this project here:  
 🔗 **[Syndicate Anomaly-Based Detection](https://syndicate-anomalie-based-detection.onrender.com/)**
